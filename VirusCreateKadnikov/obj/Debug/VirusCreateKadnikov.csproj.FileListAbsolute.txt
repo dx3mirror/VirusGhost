@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\VirusCreateKadnikov\VirusCreateKadnikov\bin\Debug\VirusCreateKadnikov.exe.config
+C:\Users\HP\source\repos\VirusCreateKadnikov\VirusCreateKadnikov\bin\Debug\VirusCreateKadnikov.exe
+C:\Users\HP\source\repos\VirusCreateKadnikov\VirusCreateKadnikov\bin\Debug\VirusCreateKadnikov.pdb
+C:\Users\HP\source\repos\VirusCreateKadnikov\VirusCreateKadnikov\obj\Debug\VirusCreateKadnikov.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\VirusCreateKadnikov\VirusCreateKadnikov\obj\Debug\VirusCreateKadnikov.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\VirusCreateKadnikov\VirusCreateKadnikov\obj\Debug\VirusCreateKadnikov.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\VirusCreateKadnikov\VirusCreateKadnikov\obj\Debug\VirusCreateKadnikov.exe
+C:\Users\HP\source\repos\VirusCreateKadnikov\VirusCreateKadnikov\obj\Debug\VirusCreateKadnikov.pdb
